@@ -1,4 +1,0 @@
-S.no		Test case link
-1. 	[[https://github.com/Virtual-Labs/ultra-fast-laser-spectroscopy-iitkKanpur/blob/master/test-cases/integration_test-cases/Confocal Microscopy Principles & Experiments/Confocal%20Microscopy%20Principles%20%26%20Experiments_01_Usability_smk.org][Confocal Microscopy Principles & Experiments_01_Usability_smk.org]]
-2. 	[[https://github.com/Virtual-Labs/ultra-fast-laser-spectroscopy-iitkKanpur/blob/master/test-cases/integration_test-cases/Confocal Microscopy Principles & Experiments/Confocal%20Microscopy%20Principles%20%26%20Experiments_02_Functionality_smk.org][Confocal Microscopy Principles & Experiments_02_Functionality_smk.org]]
-3. 	[[https://github.com/Virtual-Labs/ultra-fast-laser-spectroscopy-iitkKanpur/blob/master/test-cases/integration_test-cases/Confocal Microscopy Principles & Experiments/Confocal%20Microscopy%20Principles%20%26%20Experiments_03_Referred_smk.org][Confocal Microscopy Principles & Experiments_03_Referred_smk.org]]
