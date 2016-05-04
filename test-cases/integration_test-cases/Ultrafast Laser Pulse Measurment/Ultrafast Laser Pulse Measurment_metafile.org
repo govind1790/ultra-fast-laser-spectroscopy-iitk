@@ -1,0 +1,3 @@
+S.no		Test case link
+1. 	[[https://github.com/Virtual-Labs/ultra-fast-laser-spectroscopy-iitk/blob/master/test-cases/integration_test-cases/Ultrafast Laser Pulse Measurment/Ultrafast%20Laser%20Pulse%20Measurment_01_Usability_smk.org][Ultrafast Laser Pulse Measurment_01_Usability_smk.org]]
+2. 	[[https://github.com/Virtual-Labs/ultra-fast-laser-spectroscopy-iitk/blob/master/test-cases/integration_test-cases/Ultrafast Laser Pulse Measurment/Ultrafast%20Laser%20Pulse%20Measurment_02_Functionality_smk.org][Ultrafast Laser Pulse Measurment_02_Functionality_smk.org]]
