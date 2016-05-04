@@ -1,3 +1,0 @@
-S.no		Test case link
-1. 	[[https://github.com/Virtual-Labs/ultra-fast-laser-spectroscopy-iitk/blob/master/test-cases/integration_test-cases/Measure of Time-frequency bandwidth/Measure%20of%20Time-frequency%20bandwidth_01_Usability_smk.org][Measure of Time-frequency bandwidth_01_Usability_smk.org]]
-2. 	[[https://github.com/Virtual-Labs/ultra-fast-laser-spectroscopy-iitk/blob/master/test-cases/integration_test-cases/Measure of Time-frequency bandwidth/Measure%20of%20Time-frequency%20bandwidth_02_Functionality_smk.org][Measure of Time-frequency bandwidth_02_Functionality_smk.org]]
