@@ -1309,15 +1309,6 @@ lang=EN-IN style='font-family:"Times New Roman","serif"'><o:p></o:p></span></p>
 text-align:center'><span lang=EN-IN style='font-family:"Times New Roman","serif"'>Confocal
 image of BPAE tissue<o:p></o:p></span></p>
 
-<p class=MsoNormal style='text-align:justify'><span lang=EN-IN
-style='font-size:18.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
-"Times New Roman","serif";color:#7030A0'>R</span><span lang=EN-IN
-style='font-family:"Times New Roman","serif";color:#7030A0'>EFERENCE:<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-align:
-justify'><span lang=EN-IN><a href="http://www.bioimaging.dk/index.php"><span
-style='font-family:"Times New Roman","serif"'>http://www.bioimaging.dk/index.php</span></a></span><span
-lang=EN-IN style='font-family:"Times New Roman","serif"'><o:p></o:p></span></p>
 
 </div>
 </div>
