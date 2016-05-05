@@ -1030,7 +1030,7 @@ there, system can relax to the ground through various mechanism such as <span
 class=SpellE>radiative</span> (fluorescence and phosphorescence) or non-<span
 class=SpellE>radiative</span> mechanism. If system relax via non-<span
 class=SpellE>radiative</span> mechanism, it completely transfer its absorbed
-energy<span style='mso-spacerun:yes'>  </span>to the system in the form of heat
+energy<span style='mso-spacerun:yes'>Â  </span>to the system in the form of heat
 while in case of <span class=SpellE>radiative</span> relaxation, some amount of
 energy is converted in the form of heat due the stokes shift. Because of all
 these heating mechanism, a spot of local heating is formed. As refractive index
@@ -1050,7 +1050,7 @@ absorption based study in order of magnitude. TL spectroscopy depends number of
 parameters such absorption co- efficient (how strongly the sample absorbed the
 laser wavelength), thermal conductivity, thermal expansion coefficient, heat
 capacity, refractive index, thermo-optic coefficient etc.<span
-style='mso-spacerun:yes'>  </span>The principle of TL spectroscopy is shown in
+style='mso-spacerun:yes'>Â  </span>The principle of TL spectroscopy is shown in
 fig.1<o:p></o:p></span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span
@@ -1080,7 +1080,7 @@ style='font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
  visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="Thermal files/image001.png" o:title="Picture2" cropright="871f"/>
 </v:shape><![endif]--><![if !vml]><img width=533 height=266
-src="Thermal files/image002.png" alt="Description: Picture2.png" v:shapes="Picture_x0020_2"><![endif]></span><b
+src="thermal files/image002.png" alt="Description: Picture2.png" v:shapes="Picture_x0020_2"><![endif]></span><b
 style='mso-bidi-font-weight:normal'><i style='mso-bidi-font-style:normal'><span
 style='font-family:"Times New Roman","serif";mso-ansi-language:EN-US'><o:p></o:p></span></i></b></p>
 
@@ -1104,7 +1104,7 @@ yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_3" o:spid="_x0000_i1025"
  <w:borderbottom type="single" width="6"/>
  <w:borderright type="single" width="6"/>
 </v:shape><![endif]--><![if !vml]><img width=359 height=202
-src="Thermal files/image004.png" alt="Description: Picture1.png" v:shapes="Picture_x0020_3"><![endif]></span></b><b
+src="thermal files/image004.png" alt="Description: Picture1.png" v:shapes="Picture_x0020_3"><![endif]></span></b><b
 style='mso-bidi-font-weight:normal'><i style='mso-bidi-font-style:normal'><span
 style='font-family:"Times New Roman","serif";mso-ansi-language:EN-US'><o:p></o:p></span></i></b></p>
 
@@ -1201,7 +1201,7 @@ style='font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
      normal'><u><o:p></o:p></u></b></span></li>
  <li class=MsoNormal style='text-align:justify;mso-list:l3 level1 lfo7'><span
      style='font-family:"Times New Roman","serif";mso-ansi-language:EN-US'><span
-     style='mso-spacerun:yes'> </span>Now place another lens in the 780nm beam
+     style='mso-spacerun:yes'>Â </span>Now place another lens in the 780nm beam
      path, such that, the final 780 nm beam becomes collimated.<b
      style='mso-bidi-font-weight:normal'><u><o:p></o:p></u></b></span></li>
  <li class=MsoNormal style='text-align:justify;mso-list:l3 level1 lfo7'><span
@@ -1311,7 +1311,7 @@ mso-ansi-language:EN-IN;mso-fareast-language:EN-US;mso-bidi-language:AR-SA'><!--
  id="_x0000_i1025" type="#_x0000_t75" style='width:111.75pt;height:34.5pt'>
  <v:imagedata src="Thermal files/image005.png" o:title="" chromakey="white"/>
 </v:shape><![endif]--><![if !vml]><img width=149 height=46
-src="Thermal files/image006.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><b
+src="thermal files/image006.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><b
 style='mso-bidi-font-weight:normal'><span style='font-family:"Times New Roman","serif";
 mso-ansi-language:EN-US'><o:p></o:p></span></b></p>
 
