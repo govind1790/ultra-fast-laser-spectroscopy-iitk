@@ -1056,9 +1056,11 @@ mso-no-proof:yes'><!--[if gte vml 1]><v:shapetype id="_x0000_t75" coordsize="216
  visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="Live files/image001.png" o:title="ImagepIma_DSP" croptop="1574f"
   cropbottom="2952f"/>
-</v:shape><![endif]--><![if !vml]><img width=333 height=310
-src="Live files/image002.jpg" alt="Description: ImagepIma_DSP.BMP" v:shapes="Picture_x0020_0"><![endif]></span><span
-lang=EN-IN style='font-family:"Times New Roman","serif"'><o:p></o:p></span></p>
+</v:shape><![endif]--><![if !vml]>
+<a href="Live files/image002.jpg" target="_blank">
+<img width=333 height=310
+src="Live files/image002.jpg" alt="Description: ImagepIma_DSP.BMP"/> </a>
+</p>
 
 <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
 text-align:center'><span lang=EN-IN style='font-family:"Times New Roman","serif"'>Image
@@ -1152,7 +1154,7 @@ mso-list:l1 level1 lfo2'><![if !supportLists]><span lang=EN-IN
 style='font-family:"Times New Roman","serif";mso-fareast-font-family:"Times New Roman"'><span
 style='mso-list:Ignore'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span lang=EN-IN style='font-family:"Times New Roman","serif"'>Turn
-on the ‘ML’ button to convert it to the femtosecond pulse Laser.<o:p></o:p></span></p>
+on the Â‘MLÂ’ button to convert it to the femtosecond pulse Laser.<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='text-align:justify;text-indent:-.25in;
 mso-list:l1 level1 lfo2'><![if !supportLists]><span lang=EN-IN
@@ -1277,8 +1279,8 @@ cell to be selected.<o:p></o:p></span></p>
 mso-list:l1 level1 lfo2'><![if !supportLists]><span lang=EN-IN
 style='font-family:"Times New Roman","serif";mso-fareast-font-family:"Times New Roman"'><span
 style='mso-list:Ignore'>19.<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
-lang=EN-IN style='font-family:"Times New Roman","serif"'>Click on the ‘scan
-once’ button getting the image of the live cell sample.<o:p></o:p></span></p>
+lang=EN-IN style='font-family:"Times New Roman","serif"'>Click on the Â‘scan
+onceÂ’ button getting the image of the live cell sample.<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpLast style='text-align:justify;text-indent:-.25in;
 mso-list:l1 level1 lfo2'><![if !supportLists]><span lang=EN-IN
@@ -1288,7 +1290,7 @@ style='mso-list:Ignore'>20.<span style='font:7.0pt "Times New Roman"'>&nbsp; </s
 lang=EN-IN style='font-family:"Times New Roman","serif"'>Save the image by
 clicking the buttons in the following order: File I/O <span class=GramE>=</span>&gt;
 Save Image as and then select the file type (.TIFF or .BMP) and where to save
-the image and then click the ‘save’ button to save the image.</span><span
+the image and then click the Â‘saveÂ’ button to save the image.</span><span
 lang=EN-IN style='font-size:12.0pt;mso-bidi-font-size:11.0pt;line-height:115%;
 font-family:"Times New Roman","serif"'><o:p></o:p></span></p>
 
