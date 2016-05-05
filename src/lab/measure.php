@@ -1031,7 +1031,7 @@ mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-latin;
 mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;
 position:relative;top:8.5pt;mso-text-raise:-8.5pt;mso-ansi-language:EN-US;
 mso-fareast-language:EN-US;mso-bidi-language:AR-SA'><img width=60 height=27
-src="Measure files/image002.gif" v:shapes="_x0000_i1025"></p><br>
+src="measure files/image002.gif" v:shapes="_x0000_i1025"></p><br>
 
 <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-align:
 justify;text-justify:inter-ideograph;line-height:normal'><span
@@ -1047,13 +1047,13 @@ mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-latin;
 mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;
 position:relative;top:4.5pt;mso-text-raise:-4.5pt;mso-ansi-language:EN-US;
 mso-fareast-language:EN-US;mso-bidi-language:AR-SA'><img width=90 height=20
-src="Measure files/image004.gif" v:shapes="_x0000_i1025"></p>
+src="measure files/image004.gif" v:shapes="_x0000_i1025"></p>
 
 <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
 style='font-family:"Times New Roman","serif"'>Now, we cannot measure &#8710;&#631;
 directly from our spectrum, as there we have intensity vs. wavelength plot.
 Here,</span><img width=90 height=26
-src="Measure files/image006.gif" v:shapes="_x0000_i1025"> where, <i style='mso-bidi-font-style:normal'>c</i>
+src="measure files/image006.gif" v:shapes="_x0000_i1025"> where, <i style='mso-bidi-font-style:normal'>c</i>
 is the velocity of light in vacuum, &#955; is the central wavelength.<o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='font-size:18.0pt;mso-bidi-font-size:11.0pt;
@@ -1169,7 +1169,7 @@ for the validity of eqn. (1) or (2) (whichever is applicable).<o:p></o:p></span>
 
 <p class=MsoNormal align=center style='text-align:center'><span
 style='mso-no-proof:yes'><img width=642 height=253
-src="Measure files/image008.gif" v:shapes="Picture_x0020_2"><![endif]></span></p>
+src="measure files/image008.gif" v:shapes="Picture_x0020_2"><![endif]></span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span
 style='font-family:"Times New Roman","serif"'>Laser spectrum (left one: femto
