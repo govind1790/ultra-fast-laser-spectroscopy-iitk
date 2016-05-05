@@ -1065,8 +1065,8 @@ mso-no-proof:yes'><!--[if gte vml 1]><v:shapetype id="_x0000_t75" coordsize="216
  <v:imagedata src="Confocal files/image001.gif" o:title="Confocal-microscope-new1_02"
   croptop="3551f" cropbottom="1453f"/>
 </v:shape><![endif]--><![if !vml]><img width=551 height=328
-src="Confocal files/image002.jpg"
-alt="Description: C:\Users\Debjit\Pictures\Confocal-microscope-new1_02.gif"
+src="confocal files/image002.jpg"
+alt="image002.jpg"
 v:shapes="Picture_x0020_30"><![endif]></span><span lang=EN-IN style='font-family:
 "Times New Roman","serif"'><o:p></o:p></span></p>
 
@@ -1281,7 +1281,7 @@ auto;text-align:justify;text-indent:-.25in;mso-list:l4 level1 lfo8'><![if !suppo
 lang=EN-IN style='font-family:"Times New Roman","serif";mso-fareast-font-family:
 "Times New Roman"'><span style='mso-list:Ignore'>18.<span style='font:7.0pt "Times New Roman"'>&nbsp;
 </span></span></span><![endif]><span lang=EN-IN style='font-family:"Times New Roman","serif"'>Click
-on the ‘scan once’ button getting the image of the live cell sample.<o:p></o:p></span></p>
+on the Â‘scan onceÂ’ button getting the image of the live cell sample.<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpLast style='margin-top:0in;margin-right:0in;
 margin-bottom:0in;margin-left:.75in;margin-bottom:.0001pt;mso-add-space:auto;
@@ -1291,7 +1291,7 @@ lang=EN-IN style='font-family:"Times New Roman","serif";mso-fareast-font-family:
 </span></span></span><![endif]><span lang=EN-IN style='font-family:"Times New Roman","serif"'>Save
 the image by clicking the buttons in the following order: File I/O <span
 class=GramE>=</span>&gt; Save Image as and then select the file type (.TIFF or
-.BMP) and where to save the image and then click the ‘save’ button to save the
+.BMP) and where to save the image and then click the Â‘saveÂ’ button to save the
 image(s).<o:p></o:p></span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span
@@ -1302,7 +1302,7 @@ mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_0" o:spid="_x000
  <v:imagedata src="Confocal files/image003.jpg" o:title="DSC_0046.NEF"
   croptop="9339f" cropbottom="13599f" cropleft="22654f" cropright="16743f"/>
 </v:shape><![endif]--><![if !vml]><img width=338 height=203
-src="Confocal files/image004.jpg" alt="Description: DSC_0046.NEF.jpg" v:shapes="Picture_x0020_0"><![endif]></span><span
+src="confocal files/image004.jpg" alt="image004.jpg" v:shapes="Picture_x0020_0"><![endif]></span><span
 lang=EN-IN style='font-family:"Times New Roman","serif"'><o:p></o:p></span></p>
 
 <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
