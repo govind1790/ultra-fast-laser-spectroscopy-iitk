@@ -58,8 +58,8 @@ w\:* {behavior:url(#default#VML);}
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
 </xml><![endif]-->
-<link rel=themeData href="Ultrafast files/themedata.thmx">
-<link rel=colorSchemeMapping href="Ultrafast files/colorschememapping.xml">
+<link rel=themeData href="ultrafast files/themedata.thmx">
+<link rel=colorSchemeMapping href="ultrafast files/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
   <w:SpellingState>Clean</w:SpellingState>
@@ -1074,7 +1074,7 @@ mso-ansi-language:EN-IN;mso-fareast-language:EN-US;mso-bidi-language:AR-SA'><!--
  height:30.75pt'>
  <v:imagedata src="Ultrafast files/image001.png" o:title="" chromakey="white"/>
 </v:shape><![endif]--><![if !vml]><img width=167 height=41
-src="Ultrafast files/image002.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
+src="ultrafast files/image002.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
 lang=EN-IN style='font-family:"Times New Roman","serif"'><o:p></o:p></span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
@@ -1128,11 +1128,11 @@ mso-fareast-language:EN-US;mso-bidi-language:AR-SA'><!--[if gte vml 1]><v:shape
  id="_x0000_i1025" type="#_x0000_t75" style='width:88.5pt;height:19.5pt'>
  <v:imagedata src="Ultrafast files/image003.png" o:title="" chromakey="white"/>
 </v:shape><![endif]--><![if !vml]><img width=118 height=26
-src="Ultrafast files/image004.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
+src="ultrafast files/image004.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
 lang=EN-IN style='font-family:"Times New Roman","serif";mso-fareast-font-family:
 "Times New Roman";mso-fareast-theme-font:minor-fareast'> which is the sum of three components. The
 third component proportional to </span><img width=93 height=20
-src="Ultrafast files/image006.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
+src="ultrafast files/image006.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
 lang=EN-IN style='font-family:"Times New Roman","serif";mso-fareast-font-family:
 "Times New Roman";mso-fareast-theme-font:minor-fareast'> is our desired autocorrelation signal that is
 detected by the detector as<o:p></o:p></span></p>
@@ -1144,7 +1144,7 @@ mso-ansi-language:EN-IN;mso-fareast-language:EN-US;mso-bidi-language:AR-SA'><!--
  id="_x0000_i1025" type="#_x0000_t75" style='width:249pt;height:30.75pt'>
  <v:imagedata src="Ultrafast files/image007.png" o:title="" chromakey="white"/>
 </v:shape><![endif]--><![if !vml]><img width=332 height=41
-src="Ultrafast files/image008.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
+src="ultrafast files/image008.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
 lang=EN-IN style='font-family:"Times New Roman","serif";mso-fareast-font-family:
 "Times New Roman";mso-fareast-theme-font:minor-fareast'><o:p></o:p></span></p>
 
@@ -1156,7 +1156,7 @@ EN-US;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_3"
  <v:imagedata src="Ultrafast files/image009.jpg" o:title="Slide1" croptop="9165f"
   cropbottom="6603f" cropleft="3855f" cropright="2521f"/>
 </v:shape><![endif]--><![if !vml]><img width=457 height=319
-src="Ultrafast files/image010.jpg" alt="Description: Slide1.JPG" v:shapes="Picture_x0020_3"><![endif]></span></b><b
+src="ultrafast files/image010.jpg" alt="Description: Slide1.JPG" v:shapes="Picture_x0020_3"><![endif]></span></b><b
 style='mso-bidi-font-weight:normal'><u><span lang=EN-IN style='font-family:
 "Times New Roman","serif"'><o:p></o:p></span></u></b></p>
 
@@ -1188,7 +1188,7 @@ mso-fareast-language:EN-US;mso-bidi-language:AR-SA'><!--[if gte vml 1]><v:shape
  id="_x0000_i1025" type="#_x0000_t75" style='width:291pt;height:19.5pt'>
  <v:imagedata src="Ultrafast files/image011.png" o:title="" chromakey="white"/>
 </v:shape><![endif]--><![if !vml]><img width=388 height=26
-src="Ultrafast files/image012.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
+src="ultrafast files/image012.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
 lang=EN-IN style='font-family:"Times New Roman","serif";mso-fareast-font-family:
 "Times New Roman";mso-fareast-theme-font:minor-fareast'><o:p></o:p></span></p>
 
@@ -1211,7 +1211,7 @@ mso-fareast-language:EN-US;mso-bidi-language:AR-SA'><!--[if gte vml 1]><v:shape
  id="_x0000_i1025" type="#_x0000_t75" style='width:39.75pt;height:15.75pt'>
  <v:imagedata src="Ultrafast files/image013.png" o:title="" chromakey="white"/>
 </v:shape><![endif]--><![if !vml]><img width=53 height=21
-src="Ultrafast files/image014.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
+src="ultrafast files/image014.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
 lang=EN-IN style='font-family:"Times New Roman","serif";mso-fareast-font-family:
 "Times New Roman";mso-fareast-theme-font:minor-fareast'> is the first order autocorrelation function. If we place
 a BBO crystal in front of the detector and collect only the SHG signal we get
@@ -1226,7 +1226,7 @@ mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_4" o:spid="_x000
  <v:imagedata src="Ultrafast files/image015.jpg" o:title="Slide2" croptop="4594f"
   cropbottom="13531f" cropleft="8849f" cropright="11614f"/>
 </v:shape><![endif]--><![if !vml]><img width=363 height=287
-src="Ultrafast files/image016.jpg" alt="Description: Slide2.JPG" v:shapes="Picture_x0020_4"><![endif]></span><span
+src="ultrafast files/image016.jpg" alt="Description: Slide2.JPG" v:shapes="Picture_x0020_4"><![endif]></span><span
 lang=EN-IN style='font-family:"Times New Roman","serif"'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='line-height:normal'><b style='mso-bidi-font-weight:
